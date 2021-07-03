@@ -1,0 +1,14 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 100vh;
+    width: 100%;
+    background: #f6fbff; 
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
